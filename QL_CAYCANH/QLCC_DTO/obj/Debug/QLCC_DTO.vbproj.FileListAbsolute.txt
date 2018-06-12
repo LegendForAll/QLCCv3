@@ -1,0 +1,10 @@
+D:\C#\QL_CAYCANH\QLCC_DTO\bin\Debug\QLCC_DTO.dll
+D:\C#\QL_CAYCANH\QLCC_DTO\bin\Debug\QLCC_DTO.pdb
+D:\C#\QL_CAYCANH\QLCC_DTO\bin\Debug\QLCC_DTO.xml
+D:\C#\QL_CAYCANH\QLCC_DTO\obj\Debug\QLCC_DTO.vbprojAssemblyReference.cache
+D:\C#\QL_CAYCANH\QLCC_DTO\obj\Debug\QLCC_DTO.Resources.resources
+D:\C#\QL_CAYCANH\QLCC_DTO\obj\Debug\QLCC_DTO.vbproj.GenerateResource.cache
+D:\C#\QL_CAYCANH\QLCC_DTO\obj\Debug\QLCC_DTO.vbproj.CoreCompileInputs.cache
+D:\C#\QL_CAYCANH\QLCC_DTO\obj\Debug\QLCC_DTO.dll
+D:\C#\QL_CAYCANH\QLCC_DTO\obj\Debug\QLCC_DTO.xml
+D:\C#\QL_CAYCANH\QLCC_DTO\obj\Debug\QLCC_DTO.pdb

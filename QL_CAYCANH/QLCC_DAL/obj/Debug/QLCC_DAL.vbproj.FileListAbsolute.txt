@@ -1,0 +1,17 @@
+D:\C#\QL_CAYCANH\QLCC_DAL\bin\Debug\QLCC_DAL.dll
+D:\C#\QL_CAYCANH\QLCC_DAL\bin\Debug\QLCC_DAL.pdb
+D:\C#\QL_CAYCANH\QLCC_DAL\bin\Debug\QLCC_DAL.xml
+D:\C#\QL_CAYCANH\QLCC_DAL\bin\Debug\QLCC_DTO.dll
+D:\C#\QL_CAYCANH\QLCC_DAL\bin\Debug\Utility.dll
+D:\C#\QL_CAYCANH\QLCC_DAL\bin\Debug\QLCC_DTO.pdb
+D:\C#\QL_CAYCANH\QLCC_DAL\bin\Debug\QLCC_DTO.xml
+D:\C#\QL_CAYCANH\QLCC_DAL\bin\Debug\Utility.pdb
+D:\C#\QL_CAYCANH\QLCC_DAL\bin\Debug\Utility.xml
+D:\C#\QL_CAYCANH\QLCC_DAL\obj\Debug\QLCC_DAL.vbprojAssemblyReference.cache
+D:\C#\QL_CAYCANH\QLCC_DAL\obj\Debug\QLCC_DAL.Resources.resources
+D:\C#\QL_CAYCANH\QLCC_DAL\obj\Debug\QLCC_DAL.vbproj.GenerateResource.cache
+D:\C#\QL_CAYCANH\QLCC_DAL\obj\Debug\QLCC_DAL.vbproj.CoreCompileInputs.cache
+D:\C#\QL_CAYCANH\QLCC_DAL\obj\Debug\QLCC_DAL.vbproj.CopyComplete
+D:\C#\QL_CAYCANH\QLCC_DAL\obj\Debug\QLCC_DAL.dll
+D:\C#\QL_CAYCANH\QLCC_DAL\obj\Debug\QLCC_DAL.xml
+D:\C#\QL_CAYCANH\QLCC_DAL\obj\Debug\QLCC_DAL.pdb
